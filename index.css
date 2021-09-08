@@ -1,0 +1,37 @@
+body,html{
+    height: 100%;
+    margin: 0;
+}
+.img-pic-1,.img-pic-2,.img-pic-3{
+    position: relative;
+    background-size: cover;
+    background-position: center;
+    opacity: 0.70;
+    background-attachment: fixed;
+}
+.img-pic-1{
+    background-image: url("img-1.jpg");
+    min-height: 90%;
+}
+
+.img-pic-2{
+    background-image: url("img-2.jpg");
+    min-height: 100%;
+}
+
+.img-pic-3{
+    background-image: url("img-3.jpg");
+    min-height: 400px;
+}
+
+.title{
+    text-align: center;
+}
+
+.img-text{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    font-size: 3em;
+}
