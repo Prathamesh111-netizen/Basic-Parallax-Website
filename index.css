@@ -15,12 +15,12 @@ body,html{
 }
 
 .img-pic-2{
-    background-image: url("https://source.unsplash.com/random");
+    background-image: url("https://source.unsplash.com/random/tree");
     min-height: 100%;
 }
 
 .img-pic-3{
-    background-image: url("https://source.unsplash.com/random");
+    background-image: url("https://source.unsplash.com/random/city");
     min-height: 400px;
 }
 
