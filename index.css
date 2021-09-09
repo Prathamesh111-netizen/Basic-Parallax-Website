@@ -10,17 +10,17 @@ body,html{
     background-attachment: fixed;
 }
 .img-pic-1{
-    background-image: url("img-1.jpg");
+    background-image: url("https://source.unsplash.com/random");
     min-height: 90%;
 }
 
 .img-pic-2{
-    background-image: url("img-2.jpg");
+    background-image: url("https://source.unsplash.com/random");
     min-height: 100%;
 }
 
 .img-pic-3{
-    background-image: url("img-3.jpg");
+    background-image: url("https://source.unsplash.com/random");
     min-height: 400px;
 }
 
